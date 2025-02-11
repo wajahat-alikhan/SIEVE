@@ -1,0 +1,15 @@
+# Large files
+Miniconda3*
+*.tar
+*.pth
+*.parquet
+
+# Directories
+weights/
+sieve_test/data/
+sieve_test/sieve_output/
+__pycache__/
+
+# Python
+*.py[cod]
+*.class
