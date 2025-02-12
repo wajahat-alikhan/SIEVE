@@ -1,3 +1,5 @@
+#Simple python script to generate the original text and the generated captions from the parquet file.
+
 import pandas as pd
 
 # Read the parquet file
