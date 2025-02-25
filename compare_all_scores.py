@@ -1,4 +1,4 @@
-#Python script to compare all the scores of the different models.
+#Python script to compare all the scores of the different models, like sentence transformer and CLIP and then compare them.
 
 import pandas as pd
 import numpy as np
